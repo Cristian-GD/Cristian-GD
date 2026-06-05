@@ -1,7 +1,7 @@
 <div align="center" width="50">
     <img alt="banner" src="AQUI_PEGAS_LA_IMAGEN" width="300"/>
 </div>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristian Mora</h1>
+<h1 align="center">Hi <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://midu.dev/images/wallpapers/una-taza-de-javascript.png)" width="35">, I'm Cristian Mora</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/Cristian-GD?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/Cristian-GD?style=social) 
