@@ -21,11 +21,11 @@
 
 <br>
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/poragregar)
-[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://facebook.com/poragregar)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/poragregar)
-[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/poragregar)
-[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:cristiancamilomorayaime@gmail.com)
+<!-- [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/poragregar)-->
+<!-- [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://facebook.com/poragregar)-->
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)]([https://linkedin.com/in/poragregar](https://www.linkedin.com/in/cristian-mora-1b067131a/))
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)]([https://twitter.com/poragregar](https://x.com/Cristi4n_Mor4))
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:ccmoray@itc.edu.com)
 
 <br>
 
