@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center" width="50">
+    <img alt="banner" src="./assets/oh hi there.png" width="300"/>
+</div>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm [TU NOMBRE]</h1>
 
-<!--
-**Cristian-GD/Cristian-GD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/TU_USUARIO?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_REPO) 
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO" alt="TU_USUARIO" />
 
-Here are some ideas to get you started:
+## About Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying **Software Development Technology** at **ETITC**
+- 🌱 I’m currently learning **TECHNOLOGIES**
+- 🏡 Lives in **Bogotá, Colombia**
+- ⚡ **Fun facts** : 🎮 📚 🎧 🚴‍♂️ ☕
+
+<br>
+
+## Connect with me ☕ :
+
+<br>
+
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/TU_USUARIO)
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://facebook.com/TU_USUARIO)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/TU_USUARIO)
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/TU_USUARIO)
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:TU_EMAIL)
+
+<br>
+
+## What I am Good at 🧑‍💻 :
+
+<br>
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/office/48/000000/react.png"/>
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+
+<br>
+
+## GitHub Stats 📈 :
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+## GitHub Trophies 🏆 :
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TU_USUARIO)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+## Activity Graph 📊 :
+
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+Credit: [TU_NOMBRE_USUARIO](https://github.com/TU_USUARIO)
+
+Last edited on: [FECHA ACTUAL]
