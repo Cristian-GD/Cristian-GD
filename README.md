@@ -21,11 +21,11 @@
 
 <br>
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/TU_USUARIO)
-[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://facebook.com/TU_USUARIO)
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/TU_USUARIO)
-[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/TU_USUARIO)
-[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:TU_EMAIL)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/poragregar)
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://facebook.com/poragregar)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/poragregar)
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/poragregar)
+[![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:cristiancamilomorayaime@gmail.com)
 
 <br>
 
@@ -71,6 +71,6 @@
 
 ---
 
-Credit: [TU_NOMBRE_USUARIO](https://github.com/TU_USUARIO)
+Credit: Cristian-GD(https://github.com/TU_USUARIO)
 
-Last edited on: [FECHA ACTUAL]
+Last edited on: 06/05/2026
