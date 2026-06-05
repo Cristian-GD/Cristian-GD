@@ -3,10 +3,10 @@
 </div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristian Mora</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social) 
-![GitHub User's stars](https://img.shields.io/github/stars/TU_USUARIO?style=social) 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO.TU_REPO) 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO" alt="TU_USUARIO" />
+![GitHub followers](https://img.shields.io/github/followers/Cristian-GD?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/Cristian-GD?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Cristian-GD.TU_REPO) 
+<img src="https://komarev.com/ghpvc/?username=Cristian-GD" alt="Cristian-GD" />
 
 ## About Me :
 
@@ -21,8 +21,7 @@
 
 <br>
 
-[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/poragregar)
-[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://facebook.com/poragregar)
+
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/poragregar)
 [![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/poragregar)
 [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:cristiancamilomorayaime@gmail.com)
