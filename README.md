@@ -70,7 +70,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cristian-GD&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-Credit: Cristian-GD(https://github.com/Cristian-GD)
-
-Last edited on: 06/05/2026
