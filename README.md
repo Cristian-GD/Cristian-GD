@@ -1,8 +1,7 @@
 <div align="center" width="50">
     <img alt="banner" src="AQUI_PEGAS_LA_IMAGEN" width="300"/>
 </div>
-<h1 align="center">Hi <img src="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/68ca5fa2-adbe-4c99-a9db-8d5300c88903" />
-" width="35">, I'm Cristian Mora</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristian Mora</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/Cristian-GD?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/Cristian-GD?style=social) 
@@ -22,10 +21,10 @@
 
 <br>
 
-<!-- [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/poragregar)-->
-<!-- [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://facebook.com/poragregar)-->
-[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)]([https://linkedin.com/in/poragregar](https://www.linkedin.com/in/cristian-mora-1b067131a/))
-[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)]([https://twitter.com/poragregar](https://x.com/Cristi4n_Mor4))
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/poragregar)
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://facebook.com/poragregar)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://linkedin.com/in/poragregar)
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png)](https://twitter.com/poragregar)
 [![Email](https://img.icons8.com/fluency/48/000000/apple-mail.png)](mailto:cristiancamilomorayaime@gmail.com)
 
 <br>
@@ -71,4 +70,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cristian-GD&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-⭐️ Hecho con ❤️ por [Cristian Mora](https://github.com/Cristian-GD)
+
+Credit: Cristian-GD(https://github.com/Cristian-GD)
+
+Last edited on: 06/05/2026
