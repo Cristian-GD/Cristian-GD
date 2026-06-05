@@ -71,6 +71,3 @@
 
 ---
 
-Credit: Cristian-GD(https://github.com/Cristian-GD)
-
-Last edited on: 06/05/2026
